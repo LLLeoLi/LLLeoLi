@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLeo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLLeoLi)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LLLLeoLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLLeoLi)](https://github.com/anuraghazra/github-readme-stats)
 [![github contribution grid snake animation](https://cdn.jsdelivr.net/gh/LLLeoLi/LLLeoLi@output/github-contribution-grid-snake-dark.gif)](https://github.com/LLLeoLi)

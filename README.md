@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Web development and computer graphics (simulation & animation).
+🌱 I’m currently learning Web development and Computer Graphics (Simulation & Animation).
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

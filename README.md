@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Web development and Computer Graphics (Simulation & Animation).
+🌱 I’m currently learning LLM safety and RAG.
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

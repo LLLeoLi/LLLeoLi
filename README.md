@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently working on LLM safety.
+🌱 I’m working on LLM safety.
 
 🔭 I’m currently a research intern at Shanghai AI Lab.
 <!--

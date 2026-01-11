@@ -1,7 +1,6 @@
 ### Hi there 👋
-🌱 I’m working on LLM & VLM post-training and safety.
+🌱 I’m working on LLM & VLM post-training and AI safety.
 
-🔭 I’m currently a research intern at BAAI.
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

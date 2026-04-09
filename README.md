@@ -1,5 +1,9 @@
 ### Hi there 👋
-🌱 I’m working on LLM & VLM post-training and AI safety.
+🌱 I’m working on Agentic RL and AI safety.
+
+💼 Experience: Shanghai AI Lab · BAAI · TikTok
+
+🤔 Currently focused on: agentic RL, safe post-training
 
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

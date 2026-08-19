@@ -1,9 +1,9 @@
 ### Hi there 👋
-🌱 I’m working on Agentic RL and AI safety.
+🌱 I’m building long-horizon agent.
 
-💼 Experience: Shanghai AI Lab · BAAI · TikTok
+💼 Experience: Shanghai AI Lab · BAAI · TikTok.
 
-🤔 Currently focused on: agentic RL, safe post-training
+🤔 Currently focused on: agentic RL, env scaling and safe post-training。
 
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

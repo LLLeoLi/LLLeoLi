@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m building long-horizon agent.
 
-💼 Experience: Shanghai AI Lab · BAAI · TikTok.
+💼 Experience: Shanghai AI Lab · BAAI · TikTok · JD Explore Academy.
 
 🤔 Currently focused on: agentic RL, env scaling and safe post-training。
 

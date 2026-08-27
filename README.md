@@ -3,7 +3,7 @@
 
 💼 Experience: Shanghai AI Lab · BAAI · TikTok · JD Explore Academy.
 
-🤔 Currently focused on: agentic RL, env scaling and safe post-training。
+🤔 Currently focused on: agentic RL, env scaling and safe post-training.
 
 <!--
 **LLLeoLi/LLLeoLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
